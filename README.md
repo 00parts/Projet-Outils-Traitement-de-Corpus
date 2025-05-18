@@ -26,7 +26,7 @@ Le dossier figures/ comprend les visualisations générées par les différents 
 Le premier comprend diverses mesures qui ne peuvent pas être visualisées, comme la longueur moyenne des reviews, le nombre de reviews par note et la note moyenne.
 Le deuxième comprend les évaluations du modèle, d'abord lors de son training (évalué sur le sous-corpus validation) et enfin lors de son évaluation (évalué sur le sous-corpus test). On y trouve notamment la f-mesure, l'accuracy et la loss.
 
-**Enfin, ce projet n'est pas un projet à but de recherche : les résultats ne sont pas significatifs. Il s'agit seulement d'un projet visant à nous familiariser avec ces outils sur de petits corpus. **
+**Enfin, ce projet n'est pas un projet à but de recherche : les résultats ne sont pas significatifs. Il s'agit seulement d'un projet visant à nous familiariser avec ces outils sur de petits corpus.**
 
 ## Description des besoins du projet
 
