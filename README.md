@@ -17,14 +17,16 @@ Ce projet comporte 6 étapes :
 
 L'étape 1 sera développée ci-dessous, tandis que le reste des étapes se reposant sur des scripts, ces derniers se trouveront dans le dossier src de ce dépôt. (Des liens cliquables sont également disponibles dans la liste ci-dessus et amènent directement au script concerné).
 
-**Autres précisions**
+### **Autres précisions**
 
 Les données se trouvent dans le dossier data/. Ce dernier comprend trois fichiers : le csv de base, le csv avec les données augmentées, et le csv avec les données augmentées et les classes [harmonisées](https://github.com/00parts/Projet-Outils-Traitement-de-Corpus/blob/main/src/harmonize_classes.py).
 Le modèle entraîné sur les données ne se trouve pas sur ce dépôt car trop volumineux.
-Enfin, le dossier figures/ comprend les visualisations générées par les différents scripts, ainsi que deux fichiers txt : [moyenne_compte_par_notes](https://github.com/00parts/Projet-Outils-Traitement-de-Corpus/blob/main/figures/moyenne_compte_par_notes.txt) et [résultats_train_test_model.txt](https://github.com/00parts/Projet-Outils-Traitement-de-Corpus/blob/main/figures/r%C3%A9sultats_train_test_model.txt).
+Le dossier figures/ comprend les visualisations générées par les différents scripts, ainsi que deux fichiers txt : [moyenne_compte_par_notes](https://github.com/00parts/Projet-Outils-Traitement-de-Corpus/blob/main/figures/moyenne_compte_par_notes.txt) et [résultats_train_test_model.txt](https://github.com/00parts/Projet-Outils-Traitement-de-Corpus/blob/main/figures/r%C3%A9sultats_train_test_model.txt).
 
 Le premier comprend diverses mesures qui ne peuvent pas être visualisées, comme la longueur moyenne des reviews, le nombre de reviews par note et la note moyenne.
 Le deuxième comprend les évaluations du modèle, d'abord lors de son training (évalué sur le sous-corpus validation) et enfin lors de son évaluation (évalué sur le sous-corpus test). On y trouve notamment la f-mesure, l'accuracy et la loss.
+
+**Enfin, ce projet n'est pas un projet à but de recherche : les résultats ne sont pas significatifs. Il s'agit seulement d'un projet visant à nous familiariser avec ces outils sur de petits corpus. **
 
 ## Description des besoins du projet
 
