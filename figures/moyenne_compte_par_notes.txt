@@ -1,0 +1,18 @@
+La longueur moyenne des reviews est de 112.48666666666666 mots
+
+La note moyenne donnée par les utilisateurs est de 2.5 étoiles
+
+Voici le nombre de reviews par note : 
+
+        reviews
+notes         
+0.5         18
+1.0         19
+1.5         10
+2.0         18
+2.5         19
+3.0         22
+3.5         18
+4.0          8
+4.5          5
+5.0         13

@@ -1,0 +1,17 @@
+Train (test sur val):
+
+{'eval_loss': 1.3815422058105469, 'eval_accuracy': 0.6923076923076923, 'eval_f1': 0.6599478952420128, 'eval_runtime': 2.2586, 'eval_samples_per_second': 11.512, 'eval_steps_per_second': 11.512, 'epoch': 1.0}
+{'eval_loss': 0.8943785429000854, 'eval_accuracy': 0.6538461538461539, 'eval_f1': 0.5942684766214177, 'eval_runtime': 2.1468, 'eval_samples_per_second': 12.111, 'eval_steps_per_second': 12.111, 'epoch': 2.0}
+{'loss': 0.7927, 'grad_norm': 1.7741440534591675, 'learning_rate': 4.20221169036335e-06, 'epoch': 2.37}
+{'eval_loss': 0.7601695656776428, 'eval_accuracy': 0.6923076923076923, 'eval_f1': 0.6262573964497041, 'eval_runtime': 2.1768, 'eval_samples_per_second': 11.944, 'eval_steps_per_second': 11.944, 'epoch': 3.0}
+{'train_runtime': 445.6777, 'train_samples_per_second': 1.42, 'train_steps_per_second': 1.42, 'train_loss': 0.6862762415013607, 'epoch': 3.0}
+
+Test sur test:
+
+Résultats bruts : {'eval_loss': 0.7548836469650269, 'eval_model_preparation_time': 0.0023, 'eval_runtime': 2.4017, 'eval_samples_per_second': 11.242, 'eval_steps_per_second': 11.242}
+
+Accuracy : 74.07%
+F-mesure : 68.95%
+
+
+
